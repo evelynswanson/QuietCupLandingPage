@@ -20,7 +20,7 @@ main {
 
 h1 {
     font-family: "Fraunces", serif;
-    font-optical-sizing: auto;
+    font-size: 47.78pt;
     font-weight: <600>;
     font-style: normal;
     font-variation-settings:
@@ -33,7 +33,6 @@ h1 {
 p {
     color: #2A3338;
     font-family: "Raleway", sans-serif;
-    font-optical-sizing: auto;
     font-weight: <400>;
     font-style: normal;
     font-size: 16px;
